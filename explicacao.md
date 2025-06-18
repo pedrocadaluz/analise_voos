@@ -1,5 +1,6 @@
 Análise de Resiliência da Malha Aérea Brasileira<br>
 Autor: (Pedro Arthur da Luz Miranda)<br>
+Contato: [LinkedIn](https://www.linkedin.com/in/pedro-arthur-da-luz-miranda-4a94a5301/)<br>
 Data: 18/06/2025
 
 # 1. Introdução e Objetivo
@@ -25,12 +26,12 @@ A análise revelou que a malha aérea principal do Brasil é estruturalmente rob
 ## Ranking de Aeroportos Críticos
 A tabela abaixo classifica os 10 aeroportos mais críticos com base no número de outros aeroportos que seriam desconectados da malha principal caso eles fossem removidos.
 
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 
 ## O grafo a seguir ilustra a estrutura da malha aérea. 
 Os 5 aeroportos mais críticos foram destacados em vermelho para evidenciar sua centralidade e importância na rede.
 
-![alt text](image.png)
+![alt text](images/image.png)
 
 # 4. Discussão e Conclusão
 Os resultados mostram que a criticidade de um aeroporto não está ligada apenas ao seu volume de passageiros, mas principalmente ao seu papel conector na rede.
